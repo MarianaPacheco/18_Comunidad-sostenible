@@ -1,0 +1,229 @@
+*{
+	font-family: sans-serif;
+}
+
+a{
+	text-decoration: none;	
+	list-style-type: none; 
+	color: #020202;
+}
+
+.li-menu{
+	margin: 40px 0px 0px 20px;
+	display: inline-block;
+	color: #9B9B9B;
+	font-size: 18px;
+}
+
+.logo{
+	width: 20%;
+	height: 20%;
+	margin: 2% 10% 2% 20%;
+}
+
+.bg-principal{
+	background-image: url("../img/semilla.jpg");
+ 	height: 300px;
+ 	width: 1350px;
+}
+
+.margen{
+	margin:5% 10%;
+}
+
+.image{
+	display: block;
+	margin: auto;
+}
+
+.im-metodo{
+	width: 678px;
+	height: 300px;
+}
+
+.espacio{
+	margin: 10% 2% 1% 45%;
+}
+
+.bg-verde{
+	background-image: url("../img/fondo.jpg");
+ 	height: 100%;
+ 	width: 100%;
+ }
+
+ #h2{
+	font-weight: normal;
+	margin:2% 2% 1% 40%;
+ }
+
+ .info{
+ 	font-size: 14px;
+ 	padding-bottom:2.4%; 
+ 	margin: 5% 8%;
+ }
+
+ .info-icon{
+ 	font-size: 14px;
+ 	margin: 0% 8%;
+ }
+
+.title-icon{
+	margin-top: 2px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.izq{
+	margin-left: 120px;
+}
+
+#centro{
+	margin-left:80px;
+	margin-right: 80px;
+}
+
+#der{
+	margin-left:100px;
+	margin-right: 100px;
+}
+
+.der{
+	margin-right: 90px;
+}
+
+.space{
+	margin-top:5%;
+}
+
+.image-proy{
+	width: 90%;
+	height: 90%;
+}
+
+.pl{
+	padding-left: 20%;
+}
+
+h3{
+	font-weight: normal;
+}
+
+.title-proy{
+	margin: 25% 20% 0% 5%;
+}
+
+#title-proy{
+	margin: 15% 20% 0% 5%;
+}
+
+.parrafo{
+	margin: 0% 20% 0% 5%;
+	font-size: 14px;
+}
+
+.subtitle{
+	margin: 0% 20% 0% 5%;
+}
+
+h4{
+	font-weight: normal;
+}
+
+.imgradius{
+	border-radius: 100px;
+	width: 30%;
+	height: 30%;
+}
+
+.ml{
+	margin-left: 45%;
+}
+
+.mld{
+	margin-left: 30%;
+}
+
+.male{
+	margin-left: 20%;
+}
+
+h2{
+	font-weight: normal;
+}
+
+.iconrs{
+	display: inline-block;
+	width: 5%;
+	height:5%;
+}
+
+#margin-icon{
+	margin-left: 42%;
+	margin-top: 10%;
+}
+
+.mb{
+	margin-bottom: 10%;
+}
+
+.fondo-trama{
+	background-image: url("../img/fondo2.jpg");
+ 	height: 100%;
+ 	width: 100%;
+ }
+
+ .im-blog{
+ 	margin:0% 5% 0% 25%; 
+ }
+
+ .image-blog{
+	width: 100%;
+	height: 100%;
+}
+
+.p-blog{
+	font-size: 12px;
+	text-align: justify;
+}
+
+.blogleft{
+	margin-left: 5%;
+}
+
+.cuadro-blanco{
+	border:2px solid #ffffff;
+	width: 24%;
+	height: 24%;
+	display: inline-block;
+	padding: 20px 20px;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.lef{
+	margin-left: 5%;
+}
+
+.margin-icon{
+	margin:70% 20% 5% 80%;
+	width: 30%;
+	height: 30%;
+}
+
+.mtf{
+	margin-top: 1%;
+}
+
+#mail{
+	padding: 29px 20px;
+}
+
+.flechaizq{
+	margin:6% 0% 0% -3%;
+	position: absolute;
+}
+
+.flechader{
+	margin:6% 0% 0% 21%;
+	position: absolute;
+}
